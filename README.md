@@ -5,4 +5,4 @@ This course will allow students to access additional support for content deliver
 
 [See more](https://www.humber.ca/course.html?code=HTTP%205114)
 
-[img](web-development-certificate.jpg)
+![img](web-development-certificate.jpg)
